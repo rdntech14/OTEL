@@ -1,4 +1,4 @@
-# OTEL (OpenTelemetry) - Complete Guide
+# OTEL (OpenTelemetry)
 
 ## Table of Contents
 1. [What is OTEL?](#what-is-otel)
